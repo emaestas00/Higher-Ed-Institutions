@@ -2,7 +2,7 @@
 
 A structured dataset of public higher education institutions.
 
-This repository is intended for use in data projects that require reliable, organized lists of higher education institutes for research, analytics, applications, and institutional analysis.
+This repository is intended for use in data projects that require reliable, organized lists of higher education institutes for research, analytics, applications, and institutional analysis. Too many times data like this is only available if you pay a company to generate a list for you or having to build one yourself. Hoping sharing this helps the consortium of techies in higher ed!
 
 ---
 
